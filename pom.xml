@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>connectToCassandra3</artifactId>
+    <artifactId>zti_project_backend_bare_cassandra_driver</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>connectToCassandra3</name>
     <description>connectToCassandra3</description>
